@@ -30,9 +30,9 @@ class _MyAppState extends State<MyApp> {
     // Platform messages may fail, so we use a try/catch PlatformException.
     try {
       platformVersion = await Flutterumeng.init(
-        androidKey: '',
-        wxAppKey: '',
-        wxAppSecret: '',
+        androidKey: '5edefc6e895cca385c000790',
+        wxAppKey: 'wxd5be9aa96e2e8932',
+        wxAppSecret: 'e3a92428a7c52d3e6aef32a317a13d72',
       );
     } on PlatformException {
       platformVersion = 'Failed to get platform version.';

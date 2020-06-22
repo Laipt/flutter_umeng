@@ -42,8 +42,5 @@ android {
         api 'com.umeng.umsdk:share-board:7.0.2'
 
         api 'com.umeng.umsdk:share-wx:7.0.2'
-        api 'com.umeng.umsdk:share-sina:7.0.2'
-        api 'com.umeng.umsdk:share-alipay:7.0.2'
-        api 'com.umeng.umsdk:share-dingding:7.0.2'
     }
 }
